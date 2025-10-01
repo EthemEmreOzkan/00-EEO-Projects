@@ -23,7 +23,7 @@ Sıfırdan yazılmış 2D oyun motoru projesi.
 Unity tabanlı oyun projesi.
 
 **Linkler:**
-- 🔗 **GitHub**: [Repository](https://github.com/EthemEmreOzkan/00-EEO-Projects/tree/main/02-Project_Suspicion/Demo-GDD)
+- 🔗 **GitHub**: [Repository](https://github.com/EthemEmreOzkan/01-Unity-Kavaklidere)
 - 📄 **Dokümantasyon**: Yakında eklenecek
 
 ---
