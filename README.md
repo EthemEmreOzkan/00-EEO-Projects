@@ -9,7 +9,7 @@ Bu repository, tüm oyun geliştirme projelerime hızlı erişim sağlamak amac�
 ### 00 - EEO Game Engine 2D
 **Durum:** 🚧 Geliştirme Aşamasında
 
-Sıfırdan yazılmış 2D oyun motoru projesi.
+SDL ve Box2D kütüphaneleriyle geliştirilen, C++ tabanlı bireysel oyun motoru projesi. Teorik motor prensipleri öğrenildi, uygulama aşamasında.
 
 **Linkler:**
 - 🔗 **GitHub**: Yakında eklenecek
