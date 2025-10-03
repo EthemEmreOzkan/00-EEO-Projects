@@ -23,7 +23,7 @@ Sıfırdan yazılmış 2D oyun motoru projesi.
 Unity oyun motoru aracılığıyla oluşturduğum ilk oyun projesinin yeniden yapılmış versiyonu.
 
 **Linkler:**
-- 🔗 **GitHub**: [Repository](https://github.com/EthemEmreOzkan/01-Unity-Kavaklidere)
+- 🔗 **GitHub**: [Repository](https://github.com/EthemEmreOzkan/01-Unity-Kavaklidere-Prototype)
 - 📄 **Dokümantasyon**: 
   - [Prototype-GDD](01-Unity-Kavaklidere\Prototype-GDD\README.md)
   - *Old-New Version Comparison: Yakında Eklenicek* 
