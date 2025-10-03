@@ -24,9 +24,9 @@ Unity oyun motoru aracılığıyla oluşturduğum ilk oyun projesinin yeniden ya
 
 **Linkler:**
 - 🔗 **GitHub**: [Repository](https://github.com/EthemEmreOzkan/01-Unity-Kavaklidere)
-- 📄 **Dokümantasyon**: Yakında eklenecek
-
----
+- 📄 **Dokümantasyon**: 
+  - [Prototype-GDD](01-Unity-Kavaklidere\Prototype-GDD\README.md)
+  - *Old-New Version Comparison: Yakında Eklenicek* 
 
 ### 02 - Unity Project Suspicion
 **Durum:** 🧪 Test
@@ -93,4 +93,4 @@ Kısa proje açıklaması (1-2 cümle).
 
 ---
 
-> **Not:** Bu index düzenli olarak güncellenmektedir. Yeni projeler ve linkler eklendikçe bu sayfa otomatik olarak yenilenecektir.
+> **Not:** Bu doküman düzenli olarak güncellenmektedir. Yeni projeler ve linkler eklendikçe bu sayfa güncellenicektir.

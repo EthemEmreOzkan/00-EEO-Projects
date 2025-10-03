@@ -48,11 +48,10 @@ Proje, konsept dokümanında bulunan **potansiyeli gerçekleştirebilecek seviye
 ### Görseller
 - Editör görünümü
 
-![Editor Görünümü](Docs/Assets_Docs/Mvp_Editorside.png)
-Docs\Assets_Docs
+![Editor Görünümü](../../Assets/Mvp_Editorside.png)
 - Runtime görünümü
 
-![Runtime Görünümü](Docs/Assets_Docs/Mvp_Runtime.png)
+![Runtime Görünümü](../../Assets/Mvp_Runtime.png)
 
 > ⚠️ **Not:** MVP seviyesi olduğu için herhangi bir **Asset kullanılmamıştır**. 
 
