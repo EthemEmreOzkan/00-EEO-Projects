@@ -20,7 +20,7 @@ Sıfırdan yazılmış 2D oyun motoru projesi.
 ### 01 - Unity Kavaklıdere
 **Durum:** 🚧 Geliştirme Aşamasında
 
-Unity tabanlı oyun projesi.
+Unity oyun motoru aracılığıyla oluşturduğum ilk oyun projesinin yeniden yapılmış versiyonu.
 
 **Linkler:**
 - 🔗 **GitHub**: [Repository](https://github.com/EthemEmreOzkan/01-Unity-Kavaklidere)
@@ -29,7 +29,7 @@ Unity tabanlı oyun projesi.
 ---
 
 ### 02 - Unity Project Suspicion
-**Durum:** 🚧 Geliştirme Aşamasında
+**Durum:** 🧪 Test
 
 Cluedo'dan esinlenilmiş LLM tabanlı sorgulama oyunu.
 
