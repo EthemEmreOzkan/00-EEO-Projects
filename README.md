@@ -29,14 +29,16 @@ Unity tabanlı oyun projesi.
 ---
 
 ### 02 - Unity Project Suspicion
-**Durum:** 📝 Konsept Aşaması
+**Durum:** 🚧 Geliştirme Aşamasında
 
 Cluedo'dan esinlenilmiş LLM tabanlı sorgulama oyunu.
 
 **Linkler:**
-- 🔗 **GitHub**: Yakında eklenecek
+- 🔗 **GitHub**: 
+  - [MVP_Repository](https://github.com/EthemEmreOzkan/02-Unity-Project_Suspicion-MVP)
 - 📄 **Dokümantasyon**:
   - [Demo-GDD](02-Unity-Project_Suspicion/Demo-GDD/README.md)
+  - [MVP-Final_Report](02-Unity-Project_Suspicion/MVP-Final_Report/README.md)
 
 ---
 
@@ -80,12 +82,14 @@ Kısa proje açıklaması (1-2 cümle).
 
 ## 📊 Proje İstatistikleri
 
-**Toplam Proje Sayısı:** 3  
-**Aktif Geliştirmede:** 2  
-**Konsept Aşamasında:** 1  
-**Tamamlanan:** 0
+- **Toplam Proje Sayısı:** 3  
+- **Aktif Geliştirmede:** 3  
+- **Konsept Aşamasında:** 0 
+- **Tamamlanan:** 
+  - **MVP:** 1
+  - **Prototype:** 0
 
-**Son Güncelleme:** 1.10.2025
+**Son Güncelleme:** 03.10.2025
 
 ---
 
