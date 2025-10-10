@@ -28,17 +28,24 @@ Unity oyun motoru aracılığıyla oluşturduğum ilk oyun projesinin yeniden ya
   - [Prototype-GDD](01-Unity-Kavaklidere/Prototype-GDD/README.md)
   - *Old-New Version Comparison: Yakında Eklenicek* 
 
+---
+
 ### 02 - Unity Project Suspicion
-**Durum:** 🧪 Test
+**Durum:** 🔄 Güncelleme - v0.2.0
+✅ **Tamamlandı:** [v0.1.0 pre-release](https://github.com/EthemEmreOzkan/02-Unity-Project_Suspicion-Prototype/releases/tag/0.1.0)
 
 Cluedo'dan esinlenilmiş LLM tabanlı sorgulama oyunu.
 
 **Linkler:**
 - 🔗 **GitHub**: 
   - [MVP_Repository](https://github.com/EthemEmreOzkan/02-Unity-Project_Suspicion-MVP)
-- 📄 **Dokümantasyon**:
-  - [Demo-GDD](02-Unity-Project_Suspicion/Demo-GDD/README.md)
-  - [MVP-Final_Report](02-Unity-Project_Suspicion/MVP-Final_Report/README.md)
+  - [Main_Repository](https://github.com/EthemEmreOzkan/02-Unity-Project_Suspicion-Prototype)
+- 📄 **Dokümantasyon - Main**:
+  - [Main-GDD](https://github.com/EthemEmreOzkan/02-Unity-Project_Suspicion-Prototype/tree/main/Docs/GDD/Main-GDD)
+  - [v0.1.0_Report](https://github.com/EthemEmreOzkan/02-Unity-Project_Suspicion-Prototype/tree/main/Docs/Reports/v0.1.0-Report)
+- 📄 **Dokümantasyon - MVP**:
+  - [Demo-GDD](https://github.com/EthemEmreOzkan/02-Unity-Project_Suspicion-Prototype/tree/main/Docs/GDD/Demo-GDD)
+  - [MVP-Final_Report](https://github.com/EthemEmreOzkan/02-Unity-Project_Suspicion-Prototype/tree/main/Docs/Reports/MVP-Report)
 
 ---
 
