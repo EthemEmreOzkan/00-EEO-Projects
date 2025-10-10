@@ -94,9 +94,9 @@ Kısa proje açıklaması (1-2 cümle).
 - **Konsept Aşamasında:** 0 
 - **Tamamlanan:** 
   - **MVP:** 1
-  - **Prototype:** 0
+  - **Release** 1
 
-**Son Güncelleme:** 03.10.2025
+**Son Güncelleme:** 11.10.2025
 
 ---
 
