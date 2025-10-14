@@ -4,6 +4,14 @@ Bu repository, tüm oyun geliştirme projelerime hızlı erişim sağlamak amac�
 
 ---
 
+## 📚 Genel Dokümantasyon
+
+Tüm projeler aşağıdaki standartlara uygun olarak geliştirilmektedir:
+
+- 🔗 **00-EEO-Workflows**: [Repository](https://github.com/EthemEmreOzkan/00-EEO-Workflows)
+
+---
+
 ## 📋 Proje Listesi
 
 ### 00 - EEO Game Engine 2D
@@ -58,14 +66,6 @@ Cluedo'dan esinlenilmiş LLM tabanlı sorgulama oyunu.
 | 🧪 **Test** | MVP tamamlandı, test aşamasında |
 | ✅ **Tamamlandı** | Release yapıldı, yayında |
 | 🔄 **Güncelleme** | Post-release güncellemeler |
-
----
-
-## 📚 Genel Dokümantasyon
-
-Tüm projeler aşağıdaki standartlara uygun olarak geliştirilmektedir:
-
-- 🔗 **00-EEO-Workflows**: [Repository](https://github.com/EthemEmreOzkan/00-EEO-Workflows)
 
 ---
 
