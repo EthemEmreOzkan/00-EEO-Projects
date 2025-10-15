@@ -143,7 +143,7 @@ Unity oyun motoru aracılığıyla oluşturduğum **ilk oyun projesinin yeniden 
 - Modüler sistem tasarımı
 
 **Linkler:**
-- 🔗 **GitHub:** [Repository]https://github.com/EthemEmreOzkan/04-Unity-Kavaklidere-Prototype()
+- 🔗 **GitHub:** [Repository](https://github.com/EthemEmreOzkan/04-Unity-Kavaklidere-Prototype)
 - 📄 **Dokümantasyon:** 
   - [Prototype-GDD](https://github.com/EthemEmreOzkan/04-Unity-Kavaklidere-Prototype/blob/main/Docs/Prototype-GDD/README.md)
   - *Old-New Version Comparison:* *(yakında eklenecek)* 
