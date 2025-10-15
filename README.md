@@ -85,7 +85,7 @@ AI ve NPC davranışları için **hiyerarşik nodlama sistemini** A* algoritmas�
 
 **Durum:** 🔄 Güncelleme (v0.3.0)  
 ✅ **Tamamlanan Versiyonlar:**  
-- v0.2.0 - Public Test - *Yakında eklenecek*
+- [v0.2.0 - Public-Test](https://github.com/EthemEmreOzkan/02-Unity-Project_Suspicion-Prototype/releases/tag/0.2.0)
 - [v0.1.0 - Pre-release](https://github.com/EthemEmreOzkan/02-Unity-Project_Suspicion-Prototype/releases/tag/0.1.0)
 
 **Cluedo**'dan esinlenilmiş **LLM tabanlı sorgulama oyunu**. Oyuncular, AI karakterlerle dinamik konuşmalar yaparak cinayet gizemini çözmeye çalışır. Proje, doğal dil işleme ve oyun mekaniği entegrasyonuna odaklanmaktadır.
