@@ -8,7 +8,7 @@ Ben Ethem Emre Özkan, 22 yaşındayım ve Afyon Kocatepe Üniversitesi Bilgisay
 
 Geçtiğimiz yaz, Apple tarafından tasarım ödülü almış **Oddmar** oyununun geliştiricisi **MobGe Games**'te staj yapma fırsatı buldum. Bu süreçte Scrum metodolojisi ve ekip içi çalışma konularında deneyim kazandım. Ayrıca dokümantasyon, level-design ve yazılım geliştirme aşamaları tamamen bana ait olan bir hybrid-casual oyun projesi üzerinde çalıştım.
 
-Şu anda **Metalore.ai**'de AI tabanlı oyun projelerinde aktif olarak stajıma devam etmekteyim ve junior-lead / prototype-manager olarak görev almaktayım.
+Şu anda **Metalore.ai**'de AI tabanlı oyun projelerinde aktif olarak stajıma devam etmekteyim ve prototype-manager olarak görev almaktayım.
 
 ---
 
